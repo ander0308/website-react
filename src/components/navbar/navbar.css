@@ -60,6 +60,14 @@
   outline: none;
   cursor: pointer;
   border-radius: 5px;
+  transition: background-color .3s;
+}
+
+/* ADD HOVER BOTÕES */
+.gpt3__navbar-sign button:hover,
+.gpt3__navbar-menu_container button:hover {
+  background-color: #d42700;
+
 }
 
 .gpt3__navbar-sign button {
