@@ -66,7 +66,7 @@
 /* ADD HOVER BOTÕES */
 .gpt3__navbar-sign button:hover,
 .gpt3__navbar-menu_container button:hover {
-  background-color: #d42700;
+  background-color: var(--color-primary-hover);
 
 }
 
